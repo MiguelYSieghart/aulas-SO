@@ -1,6 +1,6 @@
 //https://github.com/glener10
 
-import { Estados } from "./estados.enum";
+import { Estados } from "./estados.enum.ts";
 
 class Processo {
   pid: string;
